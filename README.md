@@ -26,18 +26,18 @@ This repository contains a **Power BI dashboard** that visualizes Netflix movies
 ## 🔧 Setup Instructions  
 
 1️⃣ **Clone this repository**  
-```sh
+
 git clone https://github.com/your-username/netflix-dashboard.git
 
-2️⃣ Open in Power BI
+2️⃣ **Open in Power BI**
 
 Open NetflixDashboard.pbix using Power BI Desktop.
 
-3️⃣ Ensure Data Connection
+3️⃣ **Ensure Data Connection**
 
 If prompted, relink the Netflix Data folder files as the data source in Power BI.
 
-📊 Data Processing Steps
+## 📊 Data Processing Steps
 Data Cleaning in Excel
 
 Removed missing values.
@@ -52,18 +52,18 @@ Used bar charts, pie charts, and KPIs for insights.
 
 Created interactive slicers for better filtering.
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 ![Netflix Dashboard](Netflix Dashboard_page-0001)
 ![Netflix Dashboard](Netflix Dashboard_page-0002)
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 🚀 Add real-time data updates using an API integration.
 📌 Improve data categorization for deeper insights.
 📊 Include trend analysis for top genres over time.
 🤖 Automate data cleaning workflows for better accuracy.  
 
-📜 License
+## 📜 License
 This project is for educational purposes only. The dataset is based on publicly available Netflix data.
 
-🙌 Contributing
+## 🙌 Contributing
 Feel free to fork this repository and enhance the dashboard! If you find any issues, open an Issue or submit a Pull Request.
