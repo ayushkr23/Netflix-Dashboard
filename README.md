@@ -53,13 +53,15 @@ Used bar charts, pie charts, and KPIs for insights.
 Created interactive slicers for better filtering.
 
 ## 📷 Dashboard Preview
-![Netflix Dashboard](Netflix Dashboard_page-0001)
-![Netflix Dashboard](Netflix Dashboard_page-0002)
+[![Netflix Dashboard - Page 1](https://i.postimg.cc/jL1KFptZ/Netflix-Dashboard-page-0001.jpg)](https://postimg.cc/jL1KFptZ)          [![Netflix Dashboard - Page 2](https://i.postimg.cc/KKP244LH/Netflix-Dashboard-page-0002.jpg)](https://postimg.cc/KKP244LH)  
 
 ## 💡 Future Enhancements
 🚀 Add real-time data updates using an API integration.
+
 📌 Improve data categorization for deeper insights.
+
 📊 Include trend analysis for top genres over time.
+
 🤖 Automate data cleaning workflows for better accuracy.  
 
 ## 📜 License
